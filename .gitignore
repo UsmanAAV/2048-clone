@@ -1,0 +1,7 @@
+/node_modules/
+/dist
+*.log
+/#HOME/
+.DS_Store
+__tests__/.DS_Store
+src/.DS_Store
